@@ -1,0 +1,73 @@
+[
+  {
+    "id": 0,
+    "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+    "rédacteur": "Philippe Bresoux",
+    "thème": "Citations courtes",
+    "difficulté": "4/5",
+    "niveau": "Confirmé",
+    "quizz": {
+      "id": "30341",
+      "question": "Quel homme célèbre a dit : « La vie est courte, mais l'ennui l'allonge » ?",
+      "propositions": [
+        "Jules Renard",
+        "Woody Allen",
+        "Serge Gainsbourg",
+        "Bob Marley"
+      ],
+      "réponse": "Jules Renard",
+      "anecdote": "Soutient d'Émile Zola dans l'affaire Dreyfus, il se révèle aussi être un admirateur enthousiaste et presque délirant de Victor Hugo."
+    }
+  },
+
+  {
+    "id": 1,
+    "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+    "rédacteur": "Philippe Bresoux",
+    "thème": "Joyeux Noël",
+    "difficulté": "2/5",
+    "niveau": "Confirmé",
+    "quizz": {
+      "id": "16140",
+      "question": "Dans quel film Billy Bob Thornton interprète-t-il un père Noël qui jure et court le jupon ?",
+      "propositions": ["Bad Santa", "Le Salut", "Love Actually", "Alamo"],
+      "réponse": "Bad Santa",
+      "anecdote": "Billy Bob Thornton, acteur et musicien américain, a été le conjoint de l'actrice Angelina Jolie de mai 2000 à mai 2003."
+    }
+  },
+  {
+    "id": 2,
+    "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+    "rédacteur": "Philippe Bresoux",
+    "thème": "Reggae",
+    "difficulté": "4/5",
+    "niveau": "Débutant",
+    "quizz": {
+      "id": "25665",
+      "question": "Le reggae est un genre musical qui possède un rythme à combien de temps ?",
+      "propositions": ["Quatre", "Trois", "Deux", "Cinq"],
+      "réponse": "Quatre",
+      "anecdote": "Une accentuation par la basse exécute de petits riffs d'une mesure souvent en figure de croche."
+    }
+  },
+  {
+    "id": 3,
+    "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+    "rédacteur": "Philippe Bresoux",
+    "thème": "Folklore",
+    "difficulté": "3/5",
+    "niveau": "Débutant",
+    "quizz": {
+      "id": "15312",
+      "question": "Quel gâteau décore-t-on traditionnellement de sapins et de petits personnages ?",
+      "propositions": [
+        "Bûche de Noël",
+        "Galette des Rois",
+        "Forêt noire",
+        "Palet de dame"
+      ],
+      "réponse": "Bûche de Noël",
+      "anecdote": "Cette coutume répandue dans toute l'Europe est attestée depuis le Moyen Âge et héritée de divers rites païens."
+    }
+  }
+]
